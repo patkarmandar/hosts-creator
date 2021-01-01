@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 LOCAL_HOST="0.0.0.0"
 OUTPUT_HOST="hosts.txt"
 
@@ -65,7 +64,6 @@ main(){
 		printf " > Hosts Creation Failed! \n"
 	fi
 }
-
 
 # Main :
 if [ ! -s source.list ]; then

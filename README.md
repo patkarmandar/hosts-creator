@@ -1,8 +1,6 @@
+# hosts-creator
+Bash script to create unified (single) host file from sources
 
-# unified-hosts-creator
-Bash script to create unified host file from sources
-
-<br>
 
 ## Configs :
 
